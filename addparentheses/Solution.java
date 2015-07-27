@@ -15,7 +15,7 @@ public class Solution {
 		if (cache.get(s) != null) {
 			return cache.get(s);
 		}
-		boolean expression = false;
+		boolean isExpression = false;
 		ArrayList<Integer> result = new ArrayList<Integer>();
 		for (int i = 0; i < s.length(); i++) {
 			if ("+-*".indexOf(s.charAt(i)) != -1) {
@@ -26,10 +26,10 @@ public class Solution {
 						result.add(cal(l, r, s.charAt(i)));
 					}
 				}
-				expression = true;
+				isExpression = true;
 			}
 		}
-		if (!expression) {
+		if (!isExpression) {
 			result.add(Integer.parseInt(s));
 		}
 		cache.put(s, result);
