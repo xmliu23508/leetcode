@@ -5,11 +5,11 @@ import java.util.HashMap;
 import java.util.List;
 
 public class Solution {
-	public List<Integer> diffWaysToCompute(String input) {
-		// cache for memorization
-		HashMap<String, List<Integer>> cache = new HashMap<String, List<Integer>>();
-		return this.helper(input, cache);
-	}
+    public List<Integer> diffWaysToCompute(String input) {
+        // cache for memorization
+        HashMap<String, List<Integer>> cache = new HashMap<String, List<Integer>>();
+        return this.helper(input, cache);
+    }
 
     List<Integer> helper(String s, HashMap<String, List<Integer>> cache) {
         if (cache.get(s) != null) {
@@ -36,21 +36,21 @@ public class Solution {
         return result;
     }
 
-	int cal(int l, int r, char op) {
-		int result = 0;
-		switch (op) {
-		case '+':
-			result = l + r;
-			break;
-		case '-':
-			result = l - r;
-			break;
-		case '*':
-			result = l * r;
-			break;
-		default:
-			break;
-		}
-		return result;
-	}
+    int cal(int l, int r, char op) {
+        int result = 0;
+        switch (op) {
+        case '+':
+            result = l + r;
+            break;
+        case '-':
+            result = l - r;
+            break;
+        case '*':
+            result = l * r;
+            break;
+        default:
+            break;
+        }
+        return result;
+    }
 }
