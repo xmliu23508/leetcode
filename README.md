@@ -6,4 +6,5 @@
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| [java](./bitwise_range//Solution.java)|bit|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)| [java](./largest-number/Solution.java)|sort|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [java](./dungeon_game/Solution.java)|dp|
+|166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)| [java](./fraction_to_decimal/Solution.java)||
 
