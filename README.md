@@ -10,5 +10,6 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [java](./add_binary/Solution.java)||
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings//)| [java](./multiply_integer/Solution.java)||
 |29|[Divide Integer](https://leetcode.com/problems/divide-two-integers/)| [java](./divide_integer/Solution.java)||
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [java](./add_two_numbers/Solution.java)||
 
 
