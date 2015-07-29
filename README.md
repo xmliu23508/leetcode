@@ -10,6 +10,7 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [java](./add_binary/Solution.java)||
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings//)| [java](./multiply_integer/Solution.java)||
 |29|[Divide Integer](https://leetcode.com/problems/divide-two-integers/)| [java](./divide_integer/Solution.java)||
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [java](./longest_substring_without_repeat/Solution.java)|hash|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [java](./add_two_numbers/Solution.java)||
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [java](./two_sum/Solution.java)|hash|
 
