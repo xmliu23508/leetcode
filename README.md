@@ -11,5 +11,6 @@
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings//)| [java](./multiply_integer/Solution.java)||
 |29|[Divide Integer](https://leetcode.com/problems/divide-two-integers/)| [java](./divide_integer/Solution.java)||
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [java](./add_two_numbers/Solution.java)||
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [java](./two_sum/Solution.java)|hash|
 
 
