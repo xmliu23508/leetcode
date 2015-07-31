@@ -13,6 +13,7 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [java](./add_binary/Solution.java)||
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings//)| [java](./multiply_integer/Solution.java)||
 |29|[Divide Integer](https://leetcode.com/problems/divide-two-integers/)| [java](./divide_integer/Solution.java)||
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [java](./swap_pairs/Solution.java)||
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [java](./merge_k_sorted_list/Solution.java)||
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [java](./generate_parentheses/Solution.java)||
 |21|[Merge Two Sorted Lists ](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](./merge_two_list/Solution.java)||
