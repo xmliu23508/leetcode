@@ -12,6 +12,7 @@
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [java](./valid_palindrome/Solution.java)||
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [java](./add_binary/Solution.java)||
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings//)| [java](./multiply_integer/Solution.java)||
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [java](./count_and_say/Solution.java)||
 |37|[Sodoku Solver](https://leetcode.com/problems/sudoku-solver/)| [java](./sodoku_solver/Solution.java)||
 |36|[Valid Sodoku](https://leetcode.com/problems/valid-sudoku/)| [java](./valid_sodoku/Solution.java)||
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [java](./search_insert_position/Solution.java)||
