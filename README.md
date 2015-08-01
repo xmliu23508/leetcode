@@ -12,6 +12,7 @@
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [java](./valid_palindrome/Solution.java)||
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [java](./add_binary/Solution.java)||
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings//)| [java](./multiply_integer/Solution.java)||
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [java](./substring_with_concatenation_of_all_words/Solution.java)||
 |29|[Divide Integer](https://leetcode.com/problems/divide-two-integers/)| [java](./divide_integer/Solution.java)||
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [java](./implement_strstr/Solution.java)||
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [java](./remove_element/Solution.java)||
