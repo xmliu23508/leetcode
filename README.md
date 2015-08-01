@@ -12,6 +12,7 @@
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [java](./valid_palindrome/Solution.java)||
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [java](./add_binary/Solution.java)||
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings//)| [java](./multiply_integer/Solution.java)||
+|33|[Search in Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [java](./search_in_rotated_sorted_array/Solution.java)||
 |32|[Longest Valid Parentheses ](https://leetcode.com/problems/longest-valid-parentheses/)| [java](./longest_valid_parentheses/Solution.java)||
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [java](./next_permutation/Solution.java)||
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [java](./substring_with_concatenation_of_all_words/Solution.java)||
