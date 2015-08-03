@@ -4,6 +4,7 @@
 |---| ----- | -------- | ---------- |
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)| [java](./addparentheses/Solution.java)|recursion|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| [java](./bitwise_range//Solution.java)|bit|
+|200|[Number of Islands ](https://leetcode.com/problems/number-of-islands/)|[java](number_of_islands/Solution.java|dfs|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)| [java](./largest-number/Solution.java)|sort|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [java](./dungeon_game/Solution.java)|dp|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)| [java](./fraction_to_decimal/Solution.java)||
