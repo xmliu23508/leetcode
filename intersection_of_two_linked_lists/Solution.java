@@ -1,5 +1,4 @@
 package intersection_of_two_linked_lists;
-
 import common.ListNode;
 
 public class Solution {
