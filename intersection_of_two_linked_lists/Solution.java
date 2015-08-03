@@ -1,6 +1,6 @@
 package intersection_of_two_linked_lists;
 import common.ListNode;
-
+/** this is a quick test */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         int alen = 0;
