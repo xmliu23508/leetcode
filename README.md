@@ -8,6 +8,7 @@
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)| [java](./largest-number/Solution.java)|sort|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/)| [java](./dungeon_game/Solution.java)|dp|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)| [java](./fraction_to_decimal/Solution.java)||
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[java](./intersection_of_two_linked_lists/Solution.java|linkedlist|
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)| [java](./palindrome_partition_ii/Solution.java)||
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning//)| [java](./palindrome_partition/Solution.java)||
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| [java](./valid_palindrome/Solution.java)||
