@@ -3,6 +3,7 @@
 | # | Title | Solution | Tag |
 |---| ----- | -------- | ---------- |
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)| [java](./addparentheses/Solution.java)|recursion|
+|202|[Happy Number ](https://leetcode.com/problems/happy-number/)|[java](./happy_number/Solution.java)|recursion|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| [java](./bitwise_range//Solution.java)|bit|
 |200|[Number of Islands ](https://leetcode.com/problems/number-of-islands/)|[java](number_of_islands/Solution.java|dfs|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/)| [java](./largest-number/Solution.java)|sort|
